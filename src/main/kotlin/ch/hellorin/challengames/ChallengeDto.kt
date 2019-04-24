@@ -11,6 +11,7 @@ data class ChallengeDto(
         val totalTime: Duration?,
         val submitter: PlayerDto,
         val challengee: PlayerDto,
+        val game: GameDto,
         val raters: PlayerDto,
         val ratings: List<RatingDto>,
         val comments : List<CommentDto>
