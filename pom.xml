@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ch.hellorin</groupId>
-    <artifactId>challengames-ui-api</artifactId>
+    <artifactId>challengames-dtos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
